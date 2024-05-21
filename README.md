@@ -3,7 +3,7 @@ This project is a Currency Converter built using HTML, CSS, and JavaScript. It a
 
 ## Project Demo
 
-Check out the live demo of the Currency Converter: [click here](siniekoo19.github.io/Currency-Converter/)
+Check out the live demo of the Currency Converter: [click here](https://siniekoo19.github.io/Currency-Converter/)
 
 ## Features
 - Convert currency values between different countries.
