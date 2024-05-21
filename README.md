@@ -1,6 +1,6 @@
-# Currency Converter
+# Currency Converter💵 ➡️ 💴
 
-## Overview
+## Overview 💵 
 This project is a Currency Converter built using HTML, CSS, and JavaScript. It allows users to convert the currency of one country to another by utilizing an external API.
 
 ## Features
