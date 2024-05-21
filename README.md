@@ -29,3 +29,15 @@ let data = await response.json();
 const exchangeRate = data[fromCurr.value.toLowerCase()][toCurr.value.toLowerCase()];
 
 ```
+## 🚀 About Me
+👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Web Developer.
+
+## Authors
+[@siniekoo19](https://github.com/siniekoo19)
+
+## Acknowledgments
+- Thanks to [githubs pages](https://siniekoo19.github.io/Simon-Says-Game/) for providing a platform to deploy my website.
+- Thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
+
+## Feedback
+If you have any feedback, please reach out to me at csinchana19@gmail.com
