@@ -32,8 +32,7 @@ const updateFlag = (element) => {
     img.src = newSrc;
 }
 
-btn.addEventListener("click", async (event) =>{
-    event.preventDefault();
+const UpadateExchageRate = async () => {
     let amount = document.querySelector("input");
     let amtVal = amount.value;
     if(amtVal === "" || amtVal < 1){
@@ -57,4 +56,14 @@ btn.addEventListener("click", async (event) =>{
 
     let finalAmount = amtVal * exchangeRate;
     msg.innerText = `${amtVal} ${fromCurr.value} = ${finalAmount} ${toCurr.value}`;
+}
+
+btn.addEventListener("click", async (event) =>{
+    event.preventDefault();
+    UpadateExchageRate();
 })
+
+window.addEventListener("load", () =>{
+    UpadateExchageRate();
+})
+
