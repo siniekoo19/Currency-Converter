@@ -38,7 +38,7 @@ const exchangeRate = data[fromCurr.value.toLowerCase()][toCurr.value.toLowerCase
 [@siniekoo19](https://github.com/siniekoo19)
 
 ## Acknowledgments
-- Thanks to [githubs pages](https://siniekoo19.github.io/Simon-Says-Game/) for providing a platform to deploy my website.
+- Thanks to [githubs pages](siniekoo19.github.io/Currency-Converter/) for providing a platform to deploy my website.
 - Thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
 
 ## Feedback
